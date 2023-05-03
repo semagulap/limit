@@ -1,0 +1,18 @@
+<app>
+<id>LmtApp02</id>
+<name>Limit Proposal View</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Limit Proposal View</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Limit Proposal View</label>
+<url>https://corebanking-tst.akbank.de/limit-proposal-view</url>  
+</extensionpoint>
+</app>
+
+
+
+
+
