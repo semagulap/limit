@@ -8,7 +8,7 @@
 <extensionpoint>
 <location>EXTENSION_MENU</location>
 <label>Limit Proposal View</label>
-<url>https://corebanking-tst.akbank.de/limit-proposal-view</url>  
+<url>https://corebanking-dev.akbank.de/limit-view</url>  
 </extensionpoint>
 </app>
 
